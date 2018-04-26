@@ -23,7 +23,7 @@ public class TugasBab6 {
         fungsi objek = new fungsi();
         io objek2 = new io();
         
-        do {
+        do {// untuk perulangan program
             objek2.opening();
             System.out.println("Mari cari tau yang cewekmu mau");
             Scanner sc = new Scanner(System.in);
